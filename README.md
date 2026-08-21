@@ -30,5 +30,5 @@ Estou utilizando o GitHub para compartilhar meus estudos, projetos e minha evolu
 
 ## 📫 Contato
 
-* 💼 LinkedIn: em breve
+* 💼 LinkedIn: https://www.linkedin.com/in/giulia-machado-8029b942b
 * 🐙 GitHub: [giuliamachado-dev](https://github.com/giuliamachado-dev)
